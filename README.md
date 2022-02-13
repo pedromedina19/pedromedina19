@@ -2,6 +2,7 @@
   <a href="https://github.com/pedromedina19">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromedina19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromedina19&layout=compact&langs_count=7&theme=dark"/>
+  Api.elm linguist-generated=true
 </div>
 ##
 <div> 
