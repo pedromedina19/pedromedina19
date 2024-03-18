@@ -4,7 +4,7 @@
 🎓 Estou no 9º período de Engenharia da Computação no IFTM - Campus Uberaba 
 
 <br>
-🌱 Estudando NestJs, Angular, Spring e Django
+🌱 Estudando NestJs, Angular e Kotlin
 
 <br>
 <div align="center">
@@ -166,10 +166,10 @@
 
   <td align="center" width="120px">
     <p>
-  <img align="center" alt="Kotlin" height="35" width="auto"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Rust" height="35" width="auto"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg">
     </p>
-    <small>Kotlin</small>
+    <small>Rust</small>
   </td>
 
 
@@ -206,16 +206,16 @@
 <td align="center" width="120px">
                         <p>
                             <img align="center" alt="NestJS" height="50" width="auto"
-                                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+                                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" />
                         </p>
                         <small>NestJS</small>
                     </td>
      <td align="center" width="120px">
     <p>
-        <img align="center" alt="Bootstrap" height="35" width="auto"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Kotlin" height="50" width="auto"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
     </p>
-    <small>Spring</small>
+    <small>Kotlin</small>
   </td>
       
   </tr>
