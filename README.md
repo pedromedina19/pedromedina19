@@ -221,10 +221,10 @@
   </td>
   <td align="center" width="120px">
     <p>
-        <img align="center" alt="Bootstrap" height="35" width="auto"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+        <img align="center" alt="Angular" height="35" width="auto"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
     </p>
-    <small>Spring</small>
+    <small>Angular</small>
   </td>
       
   </tr>
