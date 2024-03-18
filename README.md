@@ -4,7 +4,7 @@
 🎓 Estou no 9º período de Engenharia da Computação no IFTM - Campus Uberaba 
 
 <br>
-🌱 Estudando NestJs, Angular e Kotlin
+🌱 Estudando NestJs, Kotlin e Spring
 
 <br>
 <div align="center">
@@ -218,6 +218,13 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
     </p>
     <small>Kotlin</small>
+  </td>
+  <td align="center" width="120px">
+    <p>
+        <img align="center" alt="Bootstrap" height="35" width="auto"
+           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+    </p>
+    <small>Spring</small>
   </td>
       
   </tr>
