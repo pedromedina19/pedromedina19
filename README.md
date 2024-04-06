@@ -219,13 +219,7 @@
     </p>
     <small>Spring</small>
   </td>
-  <td align="center" width="120px">
-    <p>
-  <img align="center" alt="Kotlin" height="50" width="auto"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-    </p>
-    <small>Kotlin</small>
-  </td>
+
       
   </tr>
  
