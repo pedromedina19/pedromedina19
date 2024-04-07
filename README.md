@@ -181,13 +181,37 @@
     <small>Rust</small>
   </td>
 
+  <td align="center" width="120px">
+    <p>
+  <img align="center" alt=".NET" height="35" width="auto"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+    </p>
+    <small>.NET</small>
+  </td>
+
 
   <td align="center" width="120px">
     <p>
-  <img align="center" alt="Flutter" height="35" width="auto"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Kafka" height="35" width="auto"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachekafka.svg">
     </p>
-    <small>Flutter</small>
+    <small>Apache Kafka</small>
+  </td>
+
+  <td align="center" width="120px">
+    <p>
+  <img align="center" alt="Spark" height="35" width="auto"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachespark.svg">
+    </p>
+    <small>Apache Spark</small>
+  </td>
+
+  <td align="center" width="120px">
+    <p>
+  <img align="center" alt="Airflow" height="35" width="auto"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apacheairflow.svg">
+    </p>
+    <small>Apache Airflow</small>
   </td>
 
 
