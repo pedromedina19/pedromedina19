@@ -85,6 +85,13 @@
     </p>
     <small>NodeJS</small>
   </td>
+  <td align="center" width="120px">
+  <p>
+    <img align="center" alt="NestJS" height="50" width="auto"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  </p>
+  <small>Sequelize</small>
+  </td>
 
 
  <td align="center" width="120px">
