@@ -272,7 +272,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromedina19&layout=compact&langs_count=16&theme=dracula"/>
 
   
-  ![Snake animation](https://github.com/pedromedina19/pedromedina19/blob/output/github-contribution-grid-snake.svg)
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pedromedina19/pedromedina19/output/github-contribution-grid-snake.svg">
 </div>
     
 
