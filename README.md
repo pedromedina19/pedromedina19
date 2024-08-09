@@ -168,19 +168,6 @@
   <tr style="width=100%">
 
 
-   <td align="center" width="120px">
-                        <p>
-                            <img align="center" alt="Django" height="50" width="auto"
-                                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/django.svg" />
-                        </p>
-                        <small>Django</small>
-                    </td>
-  
-
- 
-  
-
-
   <td align="center" width="120px">
     <p>
   <img align="center" alt="Rust" height="35" width="auto"
