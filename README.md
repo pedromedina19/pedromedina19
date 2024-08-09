@@ -122,6 +122,14 @@
     </p>
     <small>Kotlin</small>
   </td>
+
+  <td align="center" width="120px">
+    <p>
+  <img align="center" alt="Kotlin" height="50" width="auto"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg">
+    </p>
+    <small>Flutter</small>
+  </td>
     
  <td align="center" width="120px">
     <p>
