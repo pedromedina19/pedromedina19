@@ -86,6 +86,13 @@
     <small>NodeJS</small>
   </td>
   <td align="center" width="120px">
+                        <p>
+                            <img align="center" alt="NestJS" height="50" width="auto"
+                                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" />
+                        </p>
+                        <small>NestJS</small>
+                    </td>
+  <td align="center" width="120px">
   <p>
     <img align="center" alt="NestJS" height="50" width="auto"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
@@ -234,16 +241,16 @@
 <td align="center" width="120px">
                         <p>
                             <img align="center" alt="NestJS" height="50" width="auto"
-                                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nestjs.svg" />
+                                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />
                         </p>
-                        <small>NestJS</small>
+                        <small>Laravel</small>
                     </td>
      <td align="center" width="120px">
     <p>
         <img align="center" alt="Bootstrap" height="35" width="auto"
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nuxt-dot-js.svg">
     </p>
-    <small>Spring</small>
+    <small>Nuxt.Js</small>
   </td>
 
       
