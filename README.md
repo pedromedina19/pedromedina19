@@ -4,7 +4,7 @@
 🎓 Estou no 9º período de Engenharia da Computação no IFTM - Campus Uberaba 
 
 <br>
-🌱 Estudando NestJs e Spring
+🌱 Estudando Laravel e NuxtJs
 
 <br>
 <div align="center">
