@@ -1,7 +1,7 @@
 ### Meu nome é Pedro Medina
 <div style="display: inline_block;">
 <br>
-🎓 Estou no 9º período de Engenharia da Computação no IFTM - Campus Uberaba 
+🎓 Estou no 10º período de Engenharia da Computação no IFTM - Campus Uberaba 
 
 <br>
 🌱 Estudando Laravel e NuxtJs
