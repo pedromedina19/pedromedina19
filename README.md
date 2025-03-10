@@ -4,7 +4,7 @@
 🎓 Estou no 10º período de Engenharia da Computação no IFTM - Campus Uberaba 
 
 <br>
-🌱 Estudando Laravel e NuxtJs
+🌱 Estudando Laravel
 
 <br>
 <div align="center">
@@ -245,13 +245,7 @@
                         </p>
                         <small>Laravel</small>
                     </td>
-     <td align="center" width="120px">
-    <p>
-        <img align="center" alt="Bootstrap" height="35" width="auto"
-           src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/nuxt-dot-js.svg">
-    </p>
-    <small>Nuxt.Js</small>
-  </td>
+     
 
       
   </tr>
