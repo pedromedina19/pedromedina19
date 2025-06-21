@@ -241,9 +241,9 @@
 <td align="center" width="120px">
                         <p>
                             <img align="center" alt="NestJS" height="50" width="auto"
-                                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg" />
+                                src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/laravel.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/swift.svg" />
                         </p>
-                        <small>Laravel</small>
+                        <small>Swift</small>
                     </td>
      
 
