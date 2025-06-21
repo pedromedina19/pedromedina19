@@ -1,10 +1,10 @@
 ### Meu nome é Pedro Medina
 <div style="display: inline_block;">
 <br>
-🎓 Estou no 10º período de Engenharia da Computação no IFTM - Campus Uberaba 
+🎓 Engenheiro de computação
 
 <br>
-🌱 Estudando Laravel
+🌱 Estudando Swift
 
 <br>
 <div align="center">
