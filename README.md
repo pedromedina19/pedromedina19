@@ -4,7 +4,7 @@
 🎓 Engenheiro de computação
 
 <br>
-🌱 Estudando Swift
+🌱 Estudando Golang
 
 <br>
 <div align="center">
